@@ -27,5 +27,13 @@ I am a Junior Full Stack Developer from Ukraine.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorSvertoka)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact)
+
   
   
