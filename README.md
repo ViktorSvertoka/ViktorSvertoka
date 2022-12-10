@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
   
   <h1>
-    Hey there!
+    Hey there, I'm Viktor!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
@@ -16,7 +16,7 @@ I am a Junior Full Stack Developer from Ukraine.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### My stack and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
