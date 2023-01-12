@@ -32,11 +32,5 @@ I am a Junior Full Stack Developer from Ukraine.
 
 ---
 
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorSvertoka)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact)
-
   
   
