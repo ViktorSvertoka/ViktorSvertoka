@@ -7,7 +7,6 @@
   </h1>
   </div>
   
-  ---
   
   ### :technologist: About Me :
 I am a Junior Full Stack Developer from Ukraine.
