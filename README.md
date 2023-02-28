@@ -24,6 +24,9 @@ I am a Junior Full Stack Developer from Ukraine.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/logos/bem.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
+          
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
