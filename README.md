@@ -12,12 +12,12 @@
 I am a Junior Full Stack Developer from Ukraine.
 
 - I’ve been actively studying the full stack for 1+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
-
+```
 🌐 Languages : English, Ukrainian, Russian.
-
----
+```
 
 ### My stack and tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
