@@ -44,5 +44,57 @@ I am a Junior Full Stack Developer from Ukraine.
      </div> 
 
 
+---
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ViktorSvertoka/ViktorSvertoka"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=ViktorSvertoka&hide_border=true&show_icons=true&count_private=true" alt="Viktor Svertoka GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=ViktorSvertoka&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
+
+<!--
+<table>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktorSvertoka&theme=default" alt="Viktor Svertoka Profile Details" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViktorSvertoka&theme=default" alt="Top Languages by Repo" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViktorSvertoka&theme=default" alt="Top Languages by Commit" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViktorSvertoka&theme=default" alt="Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViktorSvertoka&theme=default&utcOffset=8" alt="Commits" /> </a>
+    </td>
+  </tr>
+</table>
+-->
+
+<div align="center" align-content="center">
+  
+[![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
   
   
