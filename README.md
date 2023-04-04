@@ -85,7 +85,9 @@ I am a Junior Full Stack Developer from Ukraine.
 
 <div align="center">
   
+  
 [![Trophies](https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
