@@ -15,7 +15,7 @@ I am a Junior Full Stack Developer from Ukraine.
 
 🌐 Languages : English, Ukrainian, Russian.
 
----
+<br>
 
 ### My stack and tools :
 
@@ -37,7 +37,7 @@ I am a Junior Full Stack Developer from Ukraine.
   <img src="https://browsersl.ist/browserlist-e428d541.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
 </div>
 
----
+<br>
 
 ### GitHub Stats :
 
