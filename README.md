@@ -57,31 +57,6 @@ I am a Junior Full Stack Developer from Ukraine.
   </tr>
 </table>
 
-<!--
-<table>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViktorSvertoka&theme=default" alt="Viktor Svertoka Profile Details" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViktorSvertoka&theme=default" alt="Top Languages by Repo" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViktorSvertoka&theme=default" alt="Top Languages by Commit" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViktorSvertoka&theme=default" alt="Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ViktorSvertoka&theme=default&utcOffset=8" alt="Commits" /> </a>
-    </td>
-  </tr>
-</table>
--->
  <br>
  
   <div align = "center">
