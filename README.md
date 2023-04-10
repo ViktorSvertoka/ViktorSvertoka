@@ -56,9 +56,7 @@ I am a Junior Full Stack Developer from Ukraine.
     </td>
   </tr>
 </table>
-
  <br>
- 
   <div align = "center">
            <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
       </div>
