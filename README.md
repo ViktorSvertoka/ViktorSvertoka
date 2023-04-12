@@ -15,6 +15,7 @@ I am a Junior Full Stack Developer from Ukraine.
 🌐 Languages : English, Ukrainian, Russian.
 
 <br>
+<br>
 
 ### My stack and tools :
 
@@ -36,6 +37,7 @@ I am a Junior Full Stack Developer from Ukraine.
   <img src="https://browsersl.ist/browserlist-e428d541.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
 <br>
 
 ### GitHub Stats :
@@ -60,6 +62,7 @@ I am a Junior Full Stack Developer from Ukraine.
            <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
       </div>
 
+<br>
 <br>
  
 <div align=center> 
