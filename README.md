@@ -19,7 +19,6 @@ I am a Junior Full Stack Developer from Ukraine.
   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
   </div>
 
-<br>
   
 ### Roadmap 2023
 * Improve HTML
@@ -29,7 +28,6 @@ I am a Junior Full Stack Developer from Ukraine.
 * learn React.js
 * learn Node.js
 
-<br> 
   
 ### My stack and tools :
 
