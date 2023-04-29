@@ -5,7 +5,7 @@
     Hey there, I'm Viktor!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  </div>
+ </div>
   
 ### 👨‍💻 About Me :
 I am a Junior Full Stack Developer from Ukraine.
@@ -17,12 +17,14 @@ I am a Junior Full Stack Developer from Ukraine.
 
  <div>
   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
-  </div>
+ </div>
 
   
 ### Roadmap 2023
 * Improve HTML | CSS | JavaScript
 * learn TypeScript | React.js | Node.js
+  
+<br> 
   
 ### My stack and tools :
 
@@ -72,5 +74,5 @@ I am a Junior Full Stack Developer from Ukraine.
  
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Snowboarding;I+Love+House+Dance;I+Love+Capoeira;" alt="Headline" /> 
-     </div>   
+</div>   
      
