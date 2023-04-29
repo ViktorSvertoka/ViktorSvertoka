@@ -20,7 +20,17 @@ I am a Junior Full Stack Developer from Ukraine.
   </div>
 
 <br>
+  
+### Roadmap 2023
+* Improve HTML
+* Improve CSS
+* Improve JavaScript
+* learn TypeScript
+* learn React.js
+* learn Node.js
 
+<br> 
+  
 ### My stack and tools :
 
 <div>
