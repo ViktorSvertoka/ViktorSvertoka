@@ -16,6 +16,12 @@ I am a Junior Full Stack Developer from Ukraine.
 
 <br>
 
+ <div>
+  <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
+  </div>
+
+<br>
+
 ### My stack and tools :
 
 <div>
@@ -66,9 +72,3 @@ I am a Junior Full Stack Developer from Ukraine.
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Snowboarding;I+Love+House+Dance;I+Love+Capoeira;" alt="Headline" /> 
      </div>   
      
-  <br>
-     
- <div align="center">
-  <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/large">
-  </div>
-<br>
