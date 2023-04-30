@@ -12,7 +12,7 @@ I am a Junior Front End Developer from Ukraine.
 
 - I’ve been actively studying the Full Stack Developer for 1+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
 
-🌐 Languages : 🇬🇧English, 🇺🇦Ukrainian, 🇷🇺Russian.
+🌐 Languages : 🇬🇧English, 🇺🇦Ukrainian.
 
 
  <div>
