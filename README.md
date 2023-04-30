@@ -8,9 +8,10 @@
  </div>
   
 ### 👨‍💻 About Me :
-I am a Junior Front End Developer from Ukraine.
-
-- I’ve been actively studying the Full Stack Developer for 1+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
+I'm an ambitious and goal-oriented junior Front End developer. I've been actively learning Full Stack for more than a year. <br>
+I'm attentive to details and have good analytical skills what allows me to learn new information quickly. <br>
+My project experience includes both team and individual projects utilizing HTML, CSS and JavaScript as well as Agile/Scrum methodology. <br>
+I'm constantly learning to enrich my knowdlege and improve my soft skills. <br>
 
 🌐 Languages : 
 <ul>
