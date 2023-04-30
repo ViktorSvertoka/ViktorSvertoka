@@ -20,7 +20,7 @@ I am a Junior Front End Developer from Ukraine.
  </div>
 
   
-### Roadmap 2023
+### Roadmap 2023 :
 * **Improve:** `HTML` | `CSS` | `JavaScript`
 * **learn:** `TypeScript` | `React.js` | `Node.js`
   
