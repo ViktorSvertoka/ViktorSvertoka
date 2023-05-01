@@ -20,7 +20,8 @@ I'm constantly learning to enrich my knowdlege and improve my soft skills. <br>
  </div>
 
 ### Roadmap 2023 :
-* **Improve:** `HTML` | `CSS` | `JavaScript` and **learn:** `TypeScript` | `React.js` | `Node.js`
+* **Improve:** `HTML` | `CSS` | `JavaScript` | 
+* **learn:** `TypeScript` | `React.js` | `Node.js` |
 
 
 ### My stack and tools :
