@@ -8,10 +8,10 @@
  </div>
   
 ### 👨‍💻 About Me :
-I'm an ambitious and goal-oriented junior Front End developer. I've been actively learning Full Stack for more than a year. <br>
-I'm attentive to details and have good analytical skills what allows me to learn new information quickly. <br>
+I'm an ambitious and goal-oriented junior Front End Developer. I've been actively learning Full Stack for more than a year. <br>
+I'm attentive to details and have good analytical skills that allows me to learn new information quickly. <br>
 My project experience includes both team and individual projects utilizing HTML, CSS and JavaScript as well as Agile/Scrum methodology. <br>
-I'm constantly learning to enrich my knowdlege and improve my soft skills. <br>
+I'm constantly learning to enrich my knowlege and improve my soft skills. <br>
 
 🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native | 🇷🇺Russian - fluent |
   
