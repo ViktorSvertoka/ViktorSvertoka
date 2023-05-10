@@ -14,22 +14,22 @@ My project experience includes both team and individual projects utilizing HTML,
 I'm constantly learning to enrich my knowlege and improve my soft skills. <br>
 
 🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native | 🇷🇺Russian - fluent |
-  
+
  <div>
   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
  </div>
 
 ### Roadmap 2023 :
-* **Improve:** `HTML` | `CSS` | `JavaScript` | 
-* **learn:** `TypeScript` | `React.js` | `Node.js` |
 
+- **Improve:** `HTML` | `CSS` | `JavaScript` |
+- **learn:** `TypeScript` | `React.js` | `Node.js` |
 
 ### My stack and tools :
 
 <div>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="./images/javascript-original"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/logos/bem.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
@@ -73,5 +73,4 @@ I'm constantly learning to enrich my knowlege and improve my soft skills. <br>
  
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Snowboarding;I+Love+House+Dance;I+Love+Capoeira;" alt="Headline" /> 
-</div>   
-     
+</div>
