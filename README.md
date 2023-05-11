@@ -41,6 +41,7 @@ I'm constantly learning to enrich my knowlege and improve my soft skills. <br>
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="./images/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="./images/browserslist-original.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
   <img src="./images/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
