@@ -30,6 +30,7 @@ I'm constantly learning to enrich my knowlege and improve my soft skills. <br>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="./images/github-original.svg" title="Github"  alt="Github" width="40"/>&nbsp;
@@ -62,7 +63,7 @@ I'm constantly learning to enrich my knowlege and improve my soft skills. <br>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Aras Güngöre's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
