@@ -52,10 +52,10 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 ### GitHub Stats :
 
 <table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ViktorSvertoka/ViktorSvertoka"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=ViktorSvertoka&hide_border=true&show_icons=true&count_private=true" alt="Viktor Svertoka GitHub Stats" /> </a>
-    </td>
+<tr>
+<td>
+<a href="https://github.com/ViktorSvertoka/ViktorSvertoka"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=ViktorSvertoka&hide_border=true&show_icons=true&count_private=true" alt="Viktor Svertoka GitHub Stats" /> </a>
+</td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=ViktorSvertoka&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
     </td>
