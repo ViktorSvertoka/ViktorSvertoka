@@ -3,7 +3,7 @@
   
   <h1>
     Hey there, I'm Viktor!
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  </div>
   
@@ -21,14 +21,14 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 
 ### Roadmap 2023 :
 
-- **Improve:** `HTML` | `CSS` | `JavaScript` |
+- **Improve:** `HTML5` | `CSS3` | `JavaScript` |
 - **learn:** `TypeScript` | `React.js` | `Node.js` |
 
 ### My stack and tools :
 
 <div>
-  <img src="./images/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
