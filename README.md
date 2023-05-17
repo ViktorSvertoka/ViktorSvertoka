@@ -65,12 +65,20 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
+  
+  <tr>
+ <td colspan="2">
+  <p text-align="center">
+  <img alig src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
+</p>
+  </td>
+  </tr>
 </table>
   
-<div align = "center">
-  <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
-</div>
-
 <div align=center> 
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Snowboarding;I+Love+House+Dance;I+Love+Capoeira;" alt="Headline" /> 
 </div>
+
+  
+
+  
