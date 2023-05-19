@@ -76,5 +76,5 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 </table>
   
 <div align=center> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;EAT<🍕/>+;SLEEP<😴/>+;CODE<👨‍💻/>+;REPEAT<🔁/>+;" alt="Headline" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;<🍕>Eat<🍕/>+;<😴>Sleep<😴/>+;<👨‍💻>Code<👨‍💻/>+;<🔁>Repeat<🔁/>+;" alt="Headline" /> 
 </div>
