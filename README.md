@@ -13,7 +13,7 @@ I'm attentive to details and have good analytical skills that allow me to learn 
 My project experience includes both team and individual projects work with HTML5, CSS3 and JavaScript as well as Agile/Scrum methodology.
 I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 
-🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native | 🇷🇺Russian - fluent |
+🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native | 🇷🇺Russian - fluent
 
  <div>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
