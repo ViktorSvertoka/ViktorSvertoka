@@ -64,7 +64,7 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
   </tr>
   <tr>
   <td colspan=2 align="center">
- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" />   </a>
+ <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
   
@@ -77,6 +77,6 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
   </tr>
 </table>
 
-<div align=center> 
+  <div align=center> 
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;I+use+a+technique+called+rubber+duck+debugging+;" alt="Fun Facts" /> 
-</div>
+  </div>
