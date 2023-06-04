@@ -49,6 +49,7 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
   <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+  <img src="./images/ui-ux.png" title="UI/UX" alt="UI/UX" width="40" height="40"/>&nbsp;
 </div>
 
 ### GitHub Stats :
