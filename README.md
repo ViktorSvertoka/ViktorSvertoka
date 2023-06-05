@@ -19,7 +19,7 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
  </div>
 
-### Roadmap 2023 :
+### ✍️ Roadmap 2023 :
 
 - **Improve:** `HTML5` | `CSS3` | `JavaScript`
 - **learn:** `TypeScript` | `React.js` | `Node.js`
