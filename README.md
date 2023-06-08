@@ -16,7 +16,7 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native | 🇷🇺Russian - fluent
 
  <div>
-    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
+   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
  </div>
 
 ### Roadmap 2023 :
@@ -79,5 +79,5 @@ I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 </table>
 
   <div align=center> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;I+use+a+technique+called+rubber+duck+debugging+;" alt="Fun Facts" /> 
+   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;I+use+a+technique+called+rubber+duck+debugging+;" alt="Fun Facts" /> 
   </div>
