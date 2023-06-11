@@ -31,6 +31,7 @@ I'm constantly learning to enrich my knowledge and improve my soft skills.  <br>
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="./images/github-original.svg" title="Github"  alt="Github" width="40"/>&nbsp;
