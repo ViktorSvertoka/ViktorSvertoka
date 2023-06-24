@@ -52,6 +52,7 @@ Also, I recently started pursuing a master's degree in Computer Science: Softwar
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="./images/photoshop-original.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="./images/illustrator-original.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="./images/ui-ux.png" title="UI/UX" alt="UI/UX" width="40" height="40"/>&nbsp;
 </div>
 
