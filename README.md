@@ -23,7 +23,7 @@ Also, I recently started pursuing a master's degree in Computer Science: Softwar
 ### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **learn:** `React` | `Node.js` | `UI/UX` | `React Native` | `TypeScript` <br>
+📚 - **learn:** `React` | `React Native` | `UI/UX` | `Node.js` | `TypeScript` <br>
 
 ### My stack and tools :
 
