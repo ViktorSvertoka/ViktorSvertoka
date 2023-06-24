@@ -23,7 +23,7 @@ Also, I recently started pursuing a master's degree in Computer Science: Softwar
 ### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **learn:** `React.js` | `Node.js` | `UI/UX` | `React Native` | `TypeScript`  <br>
+📚 - **learn:** `React.js` | `Node.js` | `UI/UX` | `React Native` | `TypeScript` <br>
 
 ### My stack and tools :
 
@@ -51,6 +51,7 @@ Also, I recently started pursuing a master's degree in Computer Science: Softwar
   <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="./images/photoshop-original.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="./images/ui-ux.png" title="UI/UX" alt="UI/UX" width="40" height="40"/>&nbsp;
 </div>
 
@@ -74,7 +75,7 @@ Also, I recently started pursuing a master's degree in Computer Science: Softwar
   <tr>
  <td colspan="2">
   <p text-align="center">
-  <img alig src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
+  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
   </p>
   </td>
   </tr>
