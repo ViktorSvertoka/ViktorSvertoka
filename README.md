@@ -14,7 +14,7 @@ My project experience includes both team and individual projects work with HTML5
 I'm constantly learning to enrich my knowledge and improve my soft skills. <br>
 Also, I recently started pursuing a master's degree in Computer Science: Software Engineering. <br>
 
-🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native | 🇷🇺Russian - fluent
+🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native
 
  <div>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
