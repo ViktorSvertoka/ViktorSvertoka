@@ -8,12 +8,9 @@
  </div>
   
 ### 👨‍💻 About Me :
-I am currently a student pursuing a Master's degree in Computer Science: Software Engineering.<br>
-I am an ambitious and goal-oriented Front End Developer.<br>
-I have been actively learning Full Stack development for over a year.<br>
-I pay attention to details and possess strong analytical skills that enable me to quickly grasp new information.<br>
-My project experience includes both team and individual projects, working with HTML5, CSS3, JavaScript and React, as well as Agile/Scrum methodology.<br>
-I am constantly learning to expand my knowledge and improve my soft skills.<br>
+I am currently a student pursuing a Master's degree in Computer Science: Software Engineering. <br>
+I have been actively learning Full Stack development for over a year. <br>
+My project experience includes both team and individual projects, working with HTML5, CSS3, JavaScript and React, as well as Agile & Scrum methodology. <br>
 
 🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native
 
