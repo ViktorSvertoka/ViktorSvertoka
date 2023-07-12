@@ -8,11 +8,11 @@
  </div>
   
 ### 👨‍💻 About Me :
-I am currently a student pursuing a Master's degree in Computer Science: Software Engineering. <br>
-I have been actively learning Full Stack development for over a year. <br>
-My project experience includes both team and individual projects, working with HTML5, CSS3, JavaScript and React, as well as Agile & Scrum methodology. <br>
+I am currently a student pursuing a Master's degree in Computer Science: Software Engineering.  <br>
+I have been actively learning Full Stack development for over a year.  <br>
+My project experience includes both team and individual projects, working with HTML5, CSS3, JavaScript and React, as well as Agile & Scrum methodology.  <br>
 
-🌐 Languages : 🇬🇧English - pre-intermediate | 🇺🇦Ukrainian - native
+🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
  <div>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
