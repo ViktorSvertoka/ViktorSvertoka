@@ -26,7 +26,10 @@ My project experience includes both team and individual projects, working with H
 ### My stack and tools :
 
 <div>
-  <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<a href="https://html.com/">
+<img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+</a>
+  
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
