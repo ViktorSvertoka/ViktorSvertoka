@@ -43,6 +43,7 @@ My project experience includes both team and individual projects, working with H
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="./images/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="./images/browserslist-original.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
   <img src="./images/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
