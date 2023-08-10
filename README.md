@@ -20,7 +20,7 @@ My project experience includes both team and individual projects, working with H
 ### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **learn:** `React` | `React Native` | `UI/UX` | `Node.js` | `TypeScript` <br>
+📚 - **learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
 
 ### My stack and tools :
 
