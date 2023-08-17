@@ -50,10 +50,10 @@ My project experience includes both team and individual projects, working with H
   <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
   <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
-  <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="./images/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="./images/photoshop-original.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
