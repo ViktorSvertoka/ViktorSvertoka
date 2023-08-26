@@ -40,13 +40,14 @@ My project experience includes both team and individual projects, working with H
   <img src="./images/vite-original.png" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
-  <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
+  <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
   <img src="./images/terminal-original.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="./images/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="./images/browserslist-original.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
   <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
+  <img src="./images/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
@@ -56,9 +57,8 @@ My project experience includes both team and individual projects, working with H
   <img src="./images/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="./images/photoshop-original.png" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="./images/photoshop-original.png" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>&nbsp;
   <img src="./images/illustrator-original.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
-  <img src="./images/ui-ux.png" title="UI/UX" alt="UI/UX" width="40" height="40"/>&nbsp;
 </div>
 
 ### GitHub Stats :
