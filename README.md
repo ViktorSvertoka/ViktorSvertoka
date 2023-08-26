@@ -34,9 +34,9 @@ My project experience includes both team and individual projects, working with H
   <img src="./images/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
   <img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="./images/github-original.svg" title="GitHub"  alt="GitHub" width="40"/>&nbsp;
   <img src="./images/gitlab-original.svg" title="GitLub" alt="GitLub" width="40" height="40"/>&nbsp;
-  <img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="./images/vite-original.png" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
