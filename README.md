@@ -14,13 +14,14 @@ My project experience includes both team and individual projects, working with H
 🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
  <div>
-   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
+   <a href="https://www.behance.net/viktorsvertoka" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>&nbsp;
+   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
  </div>
 
 ### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **learn:** `React` | `React Native` | `UI/UX` | `Node.js` | `TypeScript` <br>
+📚 - **Learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
 
 ### My stack and tools :
 
