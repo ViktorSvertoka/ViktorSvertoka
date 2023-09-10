@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me :
 Currently, I am pursuing a Master's degree in Computer Science: Software Engineering, and I have been actively learning Full Stack development for over a year.<br>
 My project experience includes both team and individual projects, working with HTML5, CSS3, JavaScript, React and Node.js as well as Agile & Scrum methodology.<br>
-
+<img align='right' src='./assets/123.gif' width='300'>  <br>
 🌐 Languages : 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
  <div>
