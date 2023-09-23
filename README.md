@@ -1,13 +1,13 @@
-<link rel="stylesheet" type="text/css" href="./styles.css">
-
 <div id="header" align="center">
- <img src="./assets/github.gif" width="100"/>
 
+<img src="./assets/github.gif" width="100"/>
 
-<h1 class="inline-content">Hey there, I'm Viktor!</h1>
-<img src="./assets/giphy.gif" width="30px" class="inline-content" alt="GIF">
+<h1>
+Hey there, I'm Viktor!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
 
- </div>
+</div>
   
 ### 👨‍💻 About Me :
 Currently, I am pursuing a Master's degree in Computer Science: **Software Engineering**, and I have been actively learning Full Stack development for over a year.<br>
