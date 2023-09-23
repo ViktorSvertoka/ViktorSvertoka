@@ -3,8 +3,10 @@
   
  <h1>
     Hey there, I'm Viktor!
-  <img src="./assets/giphy.gif" width="30px"/>
+  
   </h1>
+
+  <img src="./assets/giphy.gif" width="30px"/>
  </div>
   
 ### 👨‍💻 About Me :
