@@ -1,8 +1,11 @@
+<link rel="stylesheet" type="text/css" href="./styles.css">
+
 <div id="header" align="center">
  <img src="./assets/github.gif" width="100"/>
-  
- <h1 style="display: inline-block;">Hey there, I'm Viktor!</h1>
-<img src="./assets/giphy.gif" width="30px" style="display: inline-block; margin-left: 10px;" />
+
+
+<h1 class="inline-content">Hey there, I'm Viktor!</h1>
+<img src="./assets/giphy.gif" width="30px" class="inline-content" alt="GIF">
 
  </div>
   
