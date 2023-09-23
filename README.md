@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="./assets/github.gif" width="100"/>
   
- <h1>Hey there, I'm Viktor!<span><img src="./assets/giphy.gif" width="30px"/></span></h1>
+ <h1>Hey there, I'm Viktor!</h1><img src="./assets/giphy.gif" width="30px"/>
  </div>
   
 ### 👨‍💻 About Me :
