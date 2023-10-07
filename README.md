@@ -14,7 +14,7 @@ I am currently pursuing a Master's degree in Computer Science: **Software Engine
 My project experience includes both team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React** and **Node.js**.<br>
 Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
-<img align="right" src="./assets/code.gif" width="380" height="220">  <br>
+<img align="right" src="./assets/code.gif" width="380" height="220"> <br>
 🌐 **Languages** :
 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
  <div>
