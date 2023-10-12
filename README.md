@@ -17,6 +17,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
 <img align="right" src="./assets/code.gif" width="380" height="220"> <br>
 🌐 **Languages** :
 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
+
  <div>
    <a href="https://www.behance.net/viktorsvertoka" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>&nbsp;
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
@@ -33,6 +34,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="./images/typescript-original.svg"  title="TS" alt="TS" width="40" height="40"/>&nbsp;
   <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
