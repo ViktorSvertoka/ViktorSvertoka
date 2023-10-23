@@ -84,14 +84,6 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
-  
-  <tr>
- <td colspan="2">
-  <p text-align="center">
-  <img align="center" src="https://github-profile-trophy-arasgungore.vercel.app/?username=ViktorSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
-  </p>
-  </td>
-  </tr>
 </table>
 
   <div align=center> 
