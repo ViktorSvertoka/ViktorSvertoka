@@ -23,14 +23,14 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
  </div>
 
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
-
-</div>
-
 ### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
 📚 - **Learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
+
+<div align="center">
+<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
+</div>
 
 ### My stack and tools :
 
