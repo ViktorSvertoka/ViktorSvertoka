@@ -23,6 +23,10 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
  </div>
 
+<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
+
+</div>
+
 ### Roadmap 2023 :
 
 ✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
@@ -85,8 +89,6 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   </td>
   </tr>
 </table>
-
-
 
   <div align=center> 
    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;I+use+a+technique+called+rubber+duck+debugging+;" alt="Fun Facts" /> 
