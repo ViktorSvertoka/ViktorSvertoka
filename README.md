@@ -62,6 +62,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
   <img src="./images/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
+  <img src="./images/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
   <img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
   <img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
@@ -71,7 +72,6 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="./images/photoshop-original.png" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>&nbsp;
-  <img src="./images/illustrator-original.png" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 </div>
 
 ### GitHub Stats :
