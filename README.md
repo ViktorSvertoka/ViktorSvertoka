@@ -23,10 +23,10 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
    <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
  </div>
 
-### Roadmap 2023 :
+### Roadmap 2024 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` <br>
-📚 - **Learn:** `React` | `React Native` | `Node.js` | `TypeScript` | `UI/UX` <br>
+✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `UI/UX` <br>
+📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` <br>
 
 <br>
 <br>
