@@ -82,7 +82,7 @@ Additionally, I am familiar with Agile and Scrum methodologies.<br>
   <a href="https://github.com/ViktorSvertoka/ViktorSvertoka"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=ViktorSvertoka&hide_border=true&show_icons=true&count_private=true" alt="Viktor Svertoka GitHub Stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=ViktorSvertoka&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+  <a href="https://github.com/ViktorSvertoka/ViktorSvertoka"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=ViktorSvertoka&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
   </td>
   </tr>
   <tr>
