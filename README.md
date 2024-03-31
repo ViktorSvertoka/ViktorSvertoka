@@ -25,8 +25,8 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
 ### Roadmap 2024 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `UI/UX` <br>
-📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` <br>
+✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `WEb Design` <br>
+📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` | `SQL` <br>
 
 <br>
 <br>
