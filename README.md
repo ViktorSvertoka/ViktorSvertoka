@@ -57,7 +57,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   <img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
   <img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
-  <img src="./images/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="./images/sql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="./images/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
   <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
   <img src="./images/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
