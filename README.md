@@ -10,11 +10,11 @@ Hey there, I'm Viktor!
 </div>
   
 ### 👨‍💻 About Me :
-I am currently pursuing a Master's degree in Computer Science: **Software Engineering**, and I have completed a **Full Stack** development course.<br> 
-My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React**, and **Node.js**.<br>
+I am currently pursuing a Master's degree in Computer Science: **Software Engineering**, and I have completed a **Full Stack** development course. <br> 
+My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Next.js**, and **Node.js**. <br>
 Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
-<img align="right" src="./assets/code.gif" width="380" height="220"> <br>
+<img align="right" src="./assets/code.gif" width="380" height="220"><br>
 🌐 **Languages** :
 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
@@ -25,8 +25,8 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
 ### Roadmap 2024 :
 
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `UI/UX` <br>
-📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` <br>
+✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `WEb Design` <br>
+📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` | `SQL` <br>
 
 <br>
 <br>
@@ -79,15 +79,19 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/ViktorSvertoka/ViktorSvertoka"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=ViktorSvertoka&hide_border=true&show_icons=true&count_private=true" alt="Viktor Svertoka GitHub Stats" /></a>
+  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktorSvertoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
   </td>
   <td>
+
   <a href="https://github.com/ViktorSvertoka/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=ViktorSvertoka&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /></a>
+
+  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
+
   </td>
   </tr>
   <tr>
   <td colspan=2 align="center">
- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
   </td>
   </tr>
 </table>
