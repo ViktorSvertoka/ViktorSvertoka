@@ -15,7 +15,22 @@ My project experience includes team and individual projects, where I have worked
 Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
 ### Languages :
-🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Pre-Intermediate
+        
+  </tr>
+</table>
+</div>
 
 
 
