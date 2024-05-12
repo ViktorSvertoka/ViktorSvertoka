@@ -115,7 +115,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
       <br>VSCode
      </td>
   <td align="center" width="80">
-        <img src="./images/figma.svg" title="Figma" alt="Figma" width="50" height="50"/>
+        <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
       <br>Figma
      </td>
   <td align="center" width="80">
