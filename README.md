@@ -76,7 +76,6 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
        <img src="./images/sql-original.svg" title="SQL" alt="SQL" width="44" height="44"/>
       <br>SQL
       </td>
-   
   </tr>
     <td align="center" width="88">
         <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="44" height="44"/>
@@ -91,10 +90,6 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
       <br>Tailwind
     </td>
     <td align="center" width="88">
-        <img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="44" height="44"/>
-      <br>Emotion
-    </td>
-    <td align="center" width="88">
         <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
@@ -107,15 +102,18 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
         <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
-   <td align="center" width="88">
+     <td align="center" width="88">
         <img src="./images/git-original.svg" title="Git" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
   <td align="center" width="88">
+        <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+  <td align="center" width="88">
         <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
-  
 </table>
 </div>
 
