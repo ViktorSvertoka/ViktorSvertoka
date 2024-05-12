@@ -114,7 +114,10 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
         <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>
       <br>VSCode
      </td>
-  
+  <td align="center" width="80">
+        <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>
+      <br>Figma
+     </td>
   <td align="center" width="80">
         <img src="./images/photoshop-original.png" title="PhotoShop" alt="PhotoShop" width="50" height="50"/>
       <br>PhotoShop
