@@ -107,15 +107,15 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
         <img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
-  <td align="center" width="88">
-        <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-     </td>
+   <td align="center" width="88">
+        <img src="./images/git-original.svg" title="Git" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
   <td align="center" width="88">
         <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
- 
+  
 </table>
 </div>
 
