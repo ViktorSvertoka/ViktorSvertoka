@@ -76,10 +76,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
        <img src="./images/sql-original.svg" title="SQL" alt="SQL" width="44" height="44"/>
       <br>SQL
       </td>
-    <td align="center" width="88">
-        <img src="./images/git-original.svg" title="Git" alt="Git" width="44" height="44"/>
-      <br>Git
-    </td>
+   
   </tr>
     <td align="center" width="88">
         <img src="./images/sass-original.svg" title="Sass" alt="Sass" width="44" height="44"/>
@@ -118,10 +115,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
         <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
-  <td align="center" width="88">
-        <img src="./images/photoshop-original.png" title="PhotoShop" alt="PhotoShop" width="44" height="44"/>
-      <br>PhotoShop
-     </td>
+ 
 </table>
 </div>
 
