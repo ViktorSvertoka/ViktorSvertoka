@@ -9,31 +9,15 @@ Hey there, I'm Viktor!
 
 </div>
   
-### 👨‍💻 About Me :
+### About Me :
 I am currently pursuing a Master's degree in Computer Science: **Software Engineering**, and I have completed a **Full Stack** development course. <br> 
 My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **React.js**, **Next.js**, and **Node.js**. <br>
 Additionally, I am familiar with Agile and Scrum methodologies. <br>
 
-<img align="right" src="./assets/code.gif" width="380" height="220"><br>
-🌐 **Languages** :
+### Languages :
 🇺🇦Ukrainian - native | 🇬🇧English - pre-intermediate
 
- <div>
-   <a href="https://www.behance.net/viktorsvertoka" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>&nbsp;
-   <a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">&nbsp;
- </div>
 
-### Roadmap 2024 :
-
-✍️ - **Improve:** `HTML5` | `CSS3` | `JavaScript` | `React` | `WEb Design` <br>
-📚 - **Learn:** `Next.js` | `React Native` | `Node.js` | `TypeScript` | `Python` | `SQL` <br>
-
-<br>
-<br>
-
-<div align="center">
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
 
 ### My stack and tools :
 
@@ -138,3 +122,15 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   <div align=center> 
    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;I+use+a+technique+called+rubber+duck+debugging+;" alt="Fun Facts" /> 
   </div>
+
+<br>
+
+<div align="center">
+<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
+</div>
