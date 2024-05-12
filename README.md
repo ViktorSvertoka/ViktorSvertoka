@@ -42,33 +42,43 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
   <tr>
      <td align="center"  width="80">
          <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+      <br>HTML5
     </td>
     <td align="center" width="80">
         <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="50" height="50"/>
+      <br>CSS3
     </td>
 <td align="center" width="80">
          <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="50" height="50"/>
+      <br>JavaScript
     </td>
     <td align="center" width="80">
         <img src="./images/typescript-original.svg"  title="TS" alt="TS" width="50" height="50"/>
+      <br>TypeScript
     </td>
     <td align="center" width="80">
         <img src="./images/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>
+      <br>Python
     </td>
     <td align="center" width="80">
         <img src="./images/react-original.svg"  title="React" alt="React" width="50" height="50"/>
+      <br>React
     </td>
     <td align="center" width="80">
         <img src="./images/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>
+      <br>Next.js
     </td>
     <td align="center" width="80">
       <img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="50" height="50"/>
+      <br>Node.js
     </td>
         <td align="center" width="80">
        <img src="./images/sql-original.svg" title="SQL" alt="SQL" width="50" height="50"/>
+      <br>SQL
       </td>
     <td align="center" width="80">
         <img src="./images/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+      <br>Git
     </td>
   </tr>
     <td align="center" width="80">
