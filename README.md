@@ -41,7 +41,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
 <table align="center">
   <tr>
      <td align="center"  width="80">
-         <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+         <img src="./images/html5.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
       <br>HTML5
     </td>
     <td align="center" width="80">
