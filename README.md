@@ -133,7 +133,7 @@ Additionally, I am familiar with Agile and Scrum methodologies. <br>
 </table>
 
 <div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+of+sense+of+humor.+;" alt="Fun Facts" /> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
 </div>
   
 <br>
