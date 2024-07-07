@@ -10,9 +10,9 @@ Hey there, I'm Viktor!
 </div>
   
 ### About Me :
-I am currently pursuing a Master's degree in Computer Science: **Software Engineering**, and I have completed a **Full Stack** development course. <br> 
-My project experience includes team and individual projects, where I have worked with technologies such as **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Python** and **SQL**. <br>
-Additionally, I am familiar with Agile and Scrum methodologies. <br>
+I am currently pursuing a Master's degree in Computer Science with a focus on **Software Engineering**, and I have completed a **Full Stack** development course. <br>  
+My project experience spans both team and individual projects, where I've utilized technologies such as **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Python**, and **SQL**. <br> 
+I am also well-versed in Agile and Scrum methodologies. <br>
 
 ### Languages :
 
