@@ -7,7 +7,7 @@ Hey there, I'm Viktor!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
 
-</div>
+   </div>
   
 ### About Me :
 I am currently pursuing a Master's degree in Computer Science with a focus on **Software Engineering**, and I have completed a **Full Stack** development course.<br>
