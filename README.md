@@ -11,7 +11,7 @@ Hey there, I'm Viktor!
   
 ### About Me :
 
-I am **Software Developer** 💻 <br>
+I am Software Developer 💻 <br>
 
 ### Languages :
 
