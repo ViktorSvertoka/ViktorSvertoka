@@ -11,7 +11,7 @@ Hey there, I'm Viktor!
   
 ### About Me :
 
-Passionate Software Developer 😅✌️ and Web Design Enthusiast 🎨💻.
+Passionate Software Developer | Web Design Enthusiast
 
 ### Languages :
 
