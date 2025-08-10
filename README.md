@@ -25,7 +25,7 @@ Passionate Software Developer | Web Design Enthusiast
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        🇬🇧 English - Intermediate
         
   </tr>
 </table>
@@ -99,15 +99,15 @@ Passionate Software Developer | Web Design Enthusiast
       <br>MongoDB
      </td>
      <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+        <img src="./images/16-aws.svg" alt="AWS" width="44" height="44"/>
       <br>Git
     </td>
   <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+        <img src="./images/17-docker.svg" alt="Docker" width="44" height="44"/>
       <br>VSCode
      </td>
   <td align="center" width="88">
-        <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
+        <img src="./images/18-dotnetcore.svg" alt=".NET" width="44" height="44"/>
       <br>Figma
      </td>
 </table>
