@@ -69,8 +69,8 @@ Passionate Software Developer | Web Design Enthusiast
       <br>Node.js
     </td>
         <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
+       <img src="./images/09-dotnet.png" alt=".NET" width="44" height="44"/>
+      <br>.NET
       </td>
   </tr>
     <td align="center" width="88">
@@ -89,27 +89,27 @@ Passionate Software Developer | Web Design Enthusiast
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
+    <td align="center" width="88">
+        <img src="./images/14-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
+     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+        <img src="./images/15-postman.svg" alt="Postman" width="44" height="44"/>
       <br>Postman
     </td>
       </td>
       <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+        <img src="./images/16-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
      <td align="center" width="88">
-        <img src="./images/16-aws.svg" alt="AWS" width="44" height="44"/>
-      <br>AWS
-    </td>
-  <td align="center" width="88">
         <img src="./images/17-docker.svg" alt="Docker" width="44" height="44"/>
       <br>Docker
      </td>
-  <td align="center" width="88">
-        <img src="./images/18-dotnet.png" alt=".NET" width="44" height="44"/>
-      <br>.NET
-     </td>
+     <td align="center" width="88">
+        <img src="./images/18-aws.svg" alt="AWS" width="44" height="44"/>
+      <br>AWS
+    </td>
 </table>
 </div>
 
