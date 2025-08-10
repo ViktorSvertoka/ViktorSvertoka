@@ -100,15 +100,15 @@ Passionate Software Developer | Web Design Enthusiast
      </td>
      <td align="center" width="88">
         <img src="./images/16-aws.svg" alt="AWS" width="44" height="44"/>
-      <br>Git
+      <br>AWS
     </td>
   <td align="center" width="88">
         <img src="./images/17-docker.svg" alt="Docker" width="44" height="44"/>
-      <br>VSCode
+      <br>Docker
      </td>
   <td align="center" width="88">
-        <img src="./images/18-dotnetcore.svg" alt=".NET" width="44" height="44"/>
-      <br>Figma
+        <img src="./images/18-dotnet.png" alt=".NET" width="44" height="44"/>
+      <br>.NET
      </td>
 </table>
 </div>
