@@ -152,3 +152,16 @@ Passionate Software Developer | Web Design Enthusiast
 <div align="center">
 <a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
 </div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/DevLoversTeam" target="_blank" rel="noopener noreferrer"
+     style="font-size:20px; font-weight:bold; text-decoration:none; color:#ff0066;">
+Click
+<img src="./assets/devlovers.svg" width="40" style="vertical-align: middle; margin: 0 6px;"/>
+and start your interview journey!
+</a>
+
+</div>
