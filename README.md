@@ -115,21 +115,12 @@ Passionate Software Engineer | Web Design Enthusiast
 
 ### GitHub Stats :
 
-<table align="center">
-  <tr>
-  <td>
-  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktorSvertoka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/ViktorSvertoka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorSvertoka&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
-  <tr>
-  <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ViktorSvertoka&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-readme-widget.vercel.app/api/widget?username=ViktorSvertoka"
+    alt="GitHub Stats Widget"
+  />
+</div>
 
 <div align=center> 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
@@ -151,14 +142,4 @@ Passionate Software Engineer | Web Design Enthusiast
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/DevLoversTeam" target="_blank" rel="noopener noreferrer">
-<img src="./assets/devlovers.svg" width="400"/>
-</a>
-
 </div>
