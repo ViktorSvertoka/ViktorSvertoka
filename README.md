@@ -117,7 +117,7 @@ Passionate Software Engineer | Web Design Enthusiast
 
 <div align="center">
   <img
-    src="https://github-readme-widget.vercel.app/api/widget?username=ViktorSvertoka"
+    src="https://github-readme-widget.vercel.app/api/widget?username=ViktorSvertoka&theme=light"
     alt="GitHub Stats Widget"
   />
 </div>
