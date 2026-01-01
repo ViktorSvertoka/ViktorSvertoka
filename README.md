@@ -1,13 +1,10 @@
 <div id="header" align="center">
 
-<img src="./assets/github.gif" width="100"/>
+<img src="./assets/github.png" width="100"/>
 
-<h1>
-Hey there, I'm Viktor!
-<img src="./assets/giphy.gif" width="30px" alt="GIF">
-</h1>
+<h1>Hey there, I'm Viktor!</h1>
 
-   </div>
+</div>
   
 ### About Me :
 
